@@ -1,0 +1,30 @@
+{
+  "assets": {
+    "VOO": {
+      "type": "us_stock",
+      "shares": 0.4528,
+      "avg_cost": 450.0
+    },
+    "GLDM": {
+      "type": "us_stock",
+      "shares": 4.4862,
+      "avg_cost": 40.0
+    },
+    "Maybank": {
+      "type": "bursa_stock",
+      "shares": 100.0,
+      "avg_cost": 10.2,
+      "cash_pool": 0.0
+    },
+    "MMF": {
+      "type": "fixed_yield",
+      "principal": 1494.75,
+      "rate": 0.04,
+      "start_date": "2026-06-12"
+    },
+    "EPF": {
+      "type": "epf_account",
+      "balance": 2201.33
+    }
+  }
+}
