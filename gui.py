@@ -1,10 +1,3 @@
-没问题！既然你的后端引擎 engine.py 已经翻译成了英文，这个作为前端界面的 PySide6 代码（main.py）里的所有按钮文本、弹窗提示、表格标题以及图表标签也必须同步翻译成英文，这样整个系统才能完美对接，在 GitHub 上展现出国际化、工业级的全栈项目水准。
-
-我同样完全保留了你所有的业务逻辑、暗黑主题（Dark Theme）样式、甚至组件的名称（ObjectName），确保你可以直接无缝替换运行。
-
-以下是翻译好的完整英文版界面代码：
-
-Python
 import sys
 from datetime import datetime
 from PySide6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
